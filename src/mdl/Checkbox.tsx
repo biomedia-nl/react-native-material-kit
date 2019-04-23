@@ -105,7 +105,7 @@ export default class Checkbox extends Component<CheckboxProps, CheckboxState> {
   // will fix that.
   componentDidUpdate(prevProps: CheckboxProps) {
     if (prevProps.checked !== this.props.checked){
-      this._initView(this.props.checked);
+      this.initView(this.props.checked);
     }
   }
 
