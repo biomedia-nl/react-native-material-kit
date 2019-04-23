@@ -1,5 +1,5 @@
 {
-  "name": "react-native-material-kit",
+  "name": "@biomedia-nl/react-native-material-kit",
   "version": "0.5.1",
   "description": "Bringing Material Design to React Native",
   "main": "lib/index.js",
